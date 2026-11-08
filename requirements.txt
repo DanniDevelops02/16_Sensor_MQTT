@@ -1,2 +1,3 @@
-streamlit==1.28.0
-paho-mqtt==1.6.1
+streamlit>=1.40
+paho-mqtt>=1.6.1
+pandas
